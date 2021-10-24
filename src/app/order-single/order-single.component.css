@@ -1,0 +1,17 @@
+#single-user-list {
+  background-color: #FFE6CC;
+  border: 1px solid #e29a2d;
+  height: 70%;
+  width: 100%;
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+
+}
+#order-detail {
+  background-color: #aeda68;
+  border: 1px solid #9ae990;
+  height: 70%;
+  width: 100%;
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+}
